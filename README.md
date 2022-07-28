@@ -19,15 +19,9 @@
   <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-
 </div>
-
-
-##
-<div>
-  ![Snake animation](https://github.com/ivastival/ivastival/blob/output/github-contribution-grid-snake.svg)
-</div>
+  
+![Snake animation](https://github.com/ivastival/ivastival/blob/output/github-contribution-grid-snake.svg)  
 
 <!--
 **IvaStival/ivastival** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
