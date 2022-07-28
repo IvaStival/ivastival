@@ -1,6 +1,5 @@
 ## Hi there!! My name is Ivã Reinaldo Stival 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Docker and React.js 
 
 <div align="left">
   <a href="https://github.com/ivastival">
