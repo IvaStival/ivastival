@@ -1,5 +1,4 @@
 ## Hi there!! My name is Ivã Reinaldo Stival 👋
-- 🌱 I’m currently learning Docker and React.js and more DataScience
 
 <div align="left">
   <a href="https://github.com/ivastival">
